@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
-import Profile from ""
-import Profile1 from "../../assets/images/Time.png"
+import Profile from "../../assets/img/423944042_940678890706849_1588942989226506196_n.png"
+import Profile1 from "../../assets/img/430715435_812009840947399_5120565568067137329_n.png"
 
 
 const Recipi = ({ recipi, handleWantToCook}) => {

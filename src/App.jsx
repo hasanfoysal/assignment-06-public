@@ -1,6 +1,7 @@
 import Banner from "./components/Banner/Banner"
 import Navbar from "./components/Navbar/Navbar"
-import Recipe from "./components/Recipe/Recipe"
+import Recipes from "./components/Recipes/Recipes"
+import Recipi from "./components/Recipi/Recipi"
 
 
 function App() {
@@ -9,7 +10,9 @@ function App() {
 
   return (
     <>
-      <Recipe></Recipe>
+
+      <Recipi></Recipi>
+      <Recipes></Recipes>
       <Navbar></Navbar>
       <Banner></Banner>
     </>
