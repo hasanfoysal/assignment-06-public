@@ -1,0 +1,119 @@
+[
+    {
+      "recipe_image": "images.jpeg",
+      "recipe_id": 1,
+      "recipe_name": "Stir-Fried Chicken with Basil",
+      "short_description": "A quick and flavorful dish perfect for a weeknight meal.",
+      "ingredients": [
+        "500g boneless, skinless chicken breasts, cubed",
+        "1/2 cup soy sauce",
+        "2 tablespoons honey",
+        "1 tablespoon cornstarch",
+        "1 tablespoon vegetable oil",
+        "1 red onion, sliced",
+        "2 cloves garlic, minced",
+        "1 red bell pepper, sliced",
+        "1 cup packed fresh basil leaves",
+        "Cooked rice, for serving"
+      ],
+      "preparing_time": 20,
+      "calories": 400
+    },
+    {
+      "recipe_image": "images (1).jpeg",
+      "recipe_id": 2,
+      "recipe_name": "Creamy Tomato Pasta",
+      "short_description": "A comforting pasta dish with a rich and creamy tomato sauce.",
+      "ingredients": [
+        "1 pound dried pasta (penne, rigatoni, etc.)",
+        "1 tablespoon olive oil",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 (28-ounce) can crushed tomatoes",
+        "1/2 cup heavy cream",
+        "1/4 cup grated Parmesan cheese",
+        "Fresh basil leaves, for garnish",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 30,
+      "calories": 550
+    },
+    {
+      "recipe_image": "istockphoto-1363638825-170667a.webp",
+      "recipe_id": 3,
+      "recipe_name": "Black Bean Burgers",
+      "short_description": "A delicious and healthy vegetarian burger option.",
+      "ingredients": [
+        "1 (15-ounce) can black beans, rinsed and drained",
+        "1 cup cooked brown rice",
+        "1/2 cup breadcrumbs",
+        "1/4 cup chopped onion",
+        "1 egg, beaten",
+        "1 tablespoon chili powder",
+        "1 teaspoon cumin",
+        "1/2 teaspoon smoked paprika",
+        "Salt and pepper to taste",
+        "Hamburger buns, for serving"
+      ],
+      "preparing_time": 25,
+      "calories": 350
+    },
+    {
+      "recipe_image": "istockphoto-1676060763-170667a.webp",
+      "recipe_id": 4,
+      "recipe_name": "Lemon Chicken Orzo Soup",
+      "short_description": "A bright and flavorful soup perfect for a cold day.",
+      "ingredients": [
+        "4 cups chicken broth",
+        "1 boneless, skinless chicken breast, cooked and shredded",
+        "1 cup orzo pasta",
+        "1/2 cup chopped carrots",
+        "1/2 cup chopped celery",
+        "1/4 cup chopped onion",
+        "1 lemon, juiced",
+        "1 tablespoon chopped fresh dill",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 30,
+      "calories": 280
+    },
+    {
+      "recipe_image": "chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Cheesy Broccoli and Rice Casserole",
+      "short_description": "A classic comfort food that's easy to prepare.",
+      "ingredients": [
+        "2 cups cooked broccoli florets",
+        "1 cup cooked rice",
+        "1 (10.5-ounce) can cream of condensed chicken soup",
+        "1 cup shredded Cheddar cheese",
+        "1/2 cup milk",
+        "1/4 cup chopped onion",
+        "1/4 cup breadcrumbs",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 40,
+      "calories": 450
+    },
+    {
+      "recipe_image": "images.jpeg",
+      "recipe_id": 1,
+      "recipe_name": "Stir-Fried Chicken with Basil",
+      "short_description": "A quick and flavorful dish perfect for a weeknight meal.",
+      "ingredients": [
+        "500g boneless, skinless chicken breasts, cubed",
+        "1/2 cup soy sauce",
+        "2 tablespoons honey",
+        "1 tablespoon cornstarch",
+        "1 tablespoon vegetable oil",
+        "1 red onion, sliced",
+        "2 cloves garlic, minced",
+        "1 red bell pepper, sliced",
+        "1 cup packed fresh basil leaves",
+        "Cooked rice, for serving"
+      ],
+      "preparing_time": 20,
+      "calories": 400
+    }
+    
+]  
