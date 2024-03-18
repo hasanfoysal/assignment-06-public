@@ -38,7 +38,7 @@ const Navbar = () => {
   <input type="text" className="grow" placeholder="Search" />
 </label>
 <div  className="w-[50px] h-[50px]">
-<img src="src/assets/image/download.jpeg" alt="" /></div>
+<img src="src/assets/images/download.jpeg" alt="" /></div>
   </div>
 </div>
         </div>
