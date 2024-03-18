@@ -1,6 +1,6 @@
 [
     {
-      "recipe_image": "src/assets/images/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg",
+      "recipe_image": "/assets/images/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg",
       "recipe_id": 1,
       "recipe_name": "Stir-Fried Chicken with Basil",
       "short_description": "A quick and flavorful dish perfect for a weeknight meal.",
@@ -20,7 +20,7 @@
       "calories": 400
     },
     {
-      "recipe_image": "src/assets/images/images (1).jpeg",
+      "recipe_image": "/assets/images/images (1).jpeg",
       "recipe_id": 2,
       "recipe_name": "Creamy Tomato Pasta",
       "short_description": "A comforting pasta dish with a rich and creamy tomato sauce.",
@@ -39,7 +39,7 @@
       "calories": 550
     },
     {
-      "recipe_image": "src/assets/images/images.jpeg",
+      "recipe_image": "/assets/images/images.jpeg",
       "recipe_id": 3,
       "recipe_name": "Black Bean Burgers",
       "short_description": "A delicious and healthy vegetarian burger option.",
@@ -59,7 +59,7 @@
       "calories": 350
     },
     {
-      "recipe_image": "src/assets/images/istockphoto-1363638825-170667a.webp",
+      "recipe_image": "/assets/images/istockphoto-1363638825-170667a.webp",
       "recipe_id": 4,
       "recipe_name": "Lemon Chicken Orzo Soup",
       "short_description": "A bright and flavorful soup perfect for a cold day.",
@@ -78,7 +78,7 @@
       "calories": 280
     },
     {
-      "recipe_image": "src/assets/images/istockphoto-1676060763-170667a.webp",
+      "recipe_image": "/assets/images/istockphoto-1676060763-170667a.webp",
       "recipe_id": 5,
       "recipe_name": "Cheesy Broccoli and Rice Casserole",
       "short_description": "A classic comfort food that's easy to prepare.",
@@ -96,7 +96,7 @@
       "calories": 450
     },
     {
-      "recipe_image": "src/assets/images/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg",
+      "recipe_image": "/assets/images/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg",
       "recipe_id": 1,
       "recipe_name": "Stir-Fried Chicken with Basil",
       "short_description": "A quick and flavorful dish perfect for a weeknight meal.",

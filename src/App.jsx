@@ -44,7 +44,7 @@ function App() {
       <Banner></Banner>
       <div className='mt-24 justify-center items-center text-center'>
         <h1 className='text-[#150B2B] text-3xl font-semibold mb-6'>
-          Our vloges
+          Our Recipes
         </h1>
         <p className='text-[#150B2B99]'>
           Welcome to our restaurant, where we proudly present a diverse array of
